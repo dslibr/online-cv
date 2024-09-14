@@ -180,10 +180,10 @@ skills:
 
     toolset:
       - name: Python, PL/SQL, HTML5, Programming, Problem Solving
-        level: High
+        level: 90%
 
       - name: SAS, R, Javascript, CSS, T-SQL
-        level: Moderate
+        level: 60%
 
 
 footer: >
