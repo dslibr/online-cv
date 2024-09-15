@@ -131,10 +131,7 @@ projects:
     assignments:
       - title: Grief to Action Mentor
         link: "https://www.caasi.pitt.edu/initiatives/grief-action"
-        tagline: "Mentor undergraduate social science students through weekly workshops in the spring semester. Workshops focused on using Python to manage, 
-      visualize, and analyze data. These students developed research questions, obtained relevant data, and attended my hands-on workshops to learn 
-      how to code in Python to gain insights from data."
-
+        tagline: "Mentor undergraduate social science students through weekly workshops in the spring semester that focused on using Python to manage, visualize, and analyze data."
 skills:
     title: Skills &amp; Proficiency
 
