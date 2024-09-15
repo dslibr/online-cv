@@ -139,10 +139,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python, PL/SQL, HTML5, Programming, Problem Solving
+      - name: Python & PL/SQL
         level: 90%
 
-      - name: SAS, R, Javascript, CSS, T-SQL
+      - name: Programming & Problem Solving
+        level: 90%
+
+      - name: HTML5, CSS, Javascipt
+        level: 75%
+
+      - name: SAS & R
         level: 60%
 
 
