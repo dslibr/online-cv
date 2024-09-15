@@ -131,7 +131,7 @@ projects:
     assignments:
       - title: Grief to Action Mentor
         link: "https://www.caasi.pitt.edu/initiatives/grief-action"
-        tagline: "Mentor undergraduate social science students through weekly workshops in the spring semester that focused on using Python to manage, visualize, and analyze data."
+        tagline: "Conduct weekly Python workshosps for undergraduate social science students who want to solve problems using open civic data."
 skills:
     title: Skills &amp; Proficiency
 
@@ -147,7 +147,6 @@ skills:
 
       - name: SAS & R
         level: 60%
-
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
