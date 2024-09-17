@@ -136,31 +136,31 @@ projects:
       
     assignments:
       - title: Data Governance Health Status Checks
-        link: "https://lisaover.com/DataGovHealthStatusChecks/"
+        link: "https://dslibr.github.io/DataGovHealthStatusChecks/"
         tagline: "This collaborative project involved contextual design research and the development of user-centered procedures and tools for the City of Pittsburgh&rsquo;s Data Governance Health Status Checks."
 
       - title: Digital Humanities Topic Modeling
-        link: "https://lisaover.com/DigitalHumanitiesTopicModeling/"
+        link: "https://dslibr.github.io/DigitalHumanitiesTopicModeling/"
         tagline: "The high-level goal of this exploratory, unsupervised learning project was to investigate which topics are present within the humanities digital collection, and how those topics vary over time."
 
       - title: Life During COVID-19 Application Profile and Metadata Schema
-        link: "https://github.com/lisaover/PittMetadata"
+        link: "https://github.com/dslibr/PittMetadata"
         tagline: "A collaborative project to create a Metadata Schema Application Profile. The Life During COVID-19 is an XML Schema application profile for describing a collection of internet-based media and datasets that reflect American reactions and outcomes related to the COVID-19 pandemic of 2019-2020."
    
       - title: Census Tracks and Relationship Files
-        link: "https://github.com/lisaover/PittOpenData"
+        link: "https://github.com/dslibr/PittOpenData"
         tagline: "This Census project explains the Allegheny County 2000-2010 Census Tract Relationship File and shows how the 2010 Census tracts in Allegheny County, Pennsylvania relate to the 2000 Census tracts."
 
       - title: Losing Schools to the Economic Chasm
-        link: "https://github.com/lisaover/DuqMastersThesis"
+        link: "https://github.com/dslibr/DuqMastersThesis"
         tagline: "For my thesis for the Computational Mathematics program at Duquesne, I examined the amount of variance in the new Pennsylvania school performance data that is explained by IRS-based income values."
 
       - title: Dictation Tutor
-        link: "https://github.com/lisaover/DictationTutor"
+        link: "https://github.com/dslibr/DictationTutor"
         tagline: "A collaborative project to create a java application to enable English language learners to practice writing from oral prompts in preparation for the written portion of the citizenship test."
 
       - title: Boggle Game
-        link: "https://github.com/lisaover/DuqWebSystems"
+        link: "https://github.com/dslibr/DuqWebSystems"
         tagline: "A collaborative project to create a servlet version of Boggle, which implements the MVC design pattern using a Java servlet as controller, a Java Beans class for the data model, and the XML version of JSP (jspx) to generate the views."
 
 skills:
