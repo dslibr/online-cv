@@ -81,20 +81,14 @@ education:
       - degree: Master of Library and Information Science (MLIS)
         university: University of Pittsburgh
         time: 2019 - 2023
-        details: |
-          My studies focused on the following topics:
-            - Applied Data Driven Methods
-            - Archives and Records Management
 
       - degree: Master of Science in Computational Mathematics (MS)
         university: Duquesne University
         time: 2013 - 2015
 
-      - degree: Bachelor of Science (BS)
+      - degree: Bachelor of Science (BS) in Scientific and Technical Communication
         university: Bowling Green State University
         time: 1989 - 1994
-        details: |
-          Scientific and Technical Communication with a specialization in Mathematics and Computer Science
 
 experiences:
     title: Experiences
