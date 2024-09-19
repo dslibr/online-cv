@@ -8,23 +8,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Lisa Over
-    tagline: Data Scientist and Data Librarian
+    name: Alan Doe
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: lisa.dslibr@gmail.com
-    phone: 
-    timezone: Eastern Standard Time # Enter your timezone, e.g., America/Cancun America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship: United States of America
-    website: https://dslibr.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: lisa-over
-    xing: 
-    github: https://github.com/dslibr
+    email: example@email.com
+    phone: 012 345 6789
+    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    citizenship:
+    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+    linkedin: alandoe
+    xing: alandoe
+    github: jekyll
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: #'@dslibr'
+    twitter: '@jekyllrb'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -39,159 +39,229 @@ sidebar:
         - idiom: English
           level: Native
 
+        - idiom: French
+          level: Professional
+
+        - idiom: Spanish
+          level: Professional
+
     interests:
       title: Interests
       info:
-        - item: Biking
+        - item: Climbing
           link:
 
-        - item: Hiking
+        - item: Snowboarding
           link:
 
-        - item: Skoolie living
+        - item: Cooking
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Welcome! My name is Lisa Over. I manage research data for a multifaceted study focused on the care and outcomes of traumatic injuries with the goal of 
-      updating existing standards of care. I develop reports and applications to support study administration and perform data munging tasks to make complex 
-      datasets ready for analysis. I focus on the needs of my clients, which include other data managers, data analysts, project managers, and study directors. 
-      I am part of a team that makes sense of data for the benefit of the public. What I do is essential to people, and the families of people, who receive 
-      better care as a result of this study.
-
-      My professional goal brings together my expertise and enthusiasm for computer programming, statistics, and math; my desire to solve problems that benefit 
-      people, organizations, or society; and my conviction to embrace challenges and life-long learning. I also enjoy teaching, and I volunteer with the 
-      Center for Analytical Approaches to Social Innovation (CAASI) at the University of Pittsburgh to mentor undergraduate social science students who 
-      are using open civic data to solve problems.
-
-      I bring a set of core teaching, communication, and programming skills as well as professionalism, dedication, and perseverance to everything I do. 
-      I am an enthusiastic, independent worker who values constructive criticism and welcomes opportunities to collaborate with peers. I gravitate toward 
-      intellectual challenges and am inclined to try new approaches or techniques in my work.
-
-      Thank you for your interest in my resume and portfolio.
-
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
     title: Education
     info:
-      - degree: Master of Data Science (MDS)
-        university: University of Pittsburgh
-        time: Expected 2027
-
-      - degree: Master of Library and Information Science (MLIS)
-        university: University of Pittsburgh
-        time: 2019 - 2023
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
         details: |
-          My studies focused on the following topics:
-            - Applied Data Driven Methods
-            - Archives and Records Management
-
-      - degree: Master of Science in Computational Mathematics (MS)
-        university: Duquesne University
-        time: 2013 - 2015
-
-      - degree: Bachelor of Science (BS)
-        university: Bowling Green State University
-        time: 1989 - 1994
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 
 experiences:
     title: Experiences
     info:
-      - role: Data Manager (Data Management Assistant 2019 - 2021)
-        time: 2019 - Present
-        company: Epidemiology Data Center (EDC), University of Pittsburgh
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
         details: |
-          My primary responsibilities involve programming in Python, PL/SQL, and SAS to create and maintain reports and data entry applications for an Oracle-based 
-          in-house Data Management System and to clean electronic health record (EHR) data. Through these tasks, I support study personnel for a series of studies 
-          within the LITES, a network of medical professionals, prehospital providers, and emergency medical services who work together to conduct reseaech on 
-          injury care and outcomes.
-            - Develop and implement data processing tasks to clean electronic health record data from Excel and flat file sources.
-            - Develop computer-based monitoring procedures using PL/SQL, SAS, and VBA to summarize data quality issues, important subject information, and site monitoring and payment information.
-            - Develop web-based data gathering applications using PL/SQL and JavaScript to facilitate quality data entry.
-            - Work closely with clinical personnel and statisticians to understand reporting requirements and to develop effective methods of providing datasets and reports as needed.
-            - Improve data compliance reporting and quality control procedures by communicating inconsistencies and problems with data entry forms, or their use, through regular data management meetings and reports.
-            - Develop applications to map study variables to form structures required by the Federal Interagency Traumatic Brain Injury Research (FITBIR) organization.
-
-      - role: Volunteer Instructor/Mentor
-        time: 2023 - Present
-        company: Center for Analytical Approaches to Social Innovation (CAASI), University of Pittsburgh
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
+      - role: Senior Software Engineer
+        time: 2014 - 2015
+        company: Google, London
         details: |
-          During spring semester, I conduct weekly Python workshops for undergraduate social science students who want to solve problems using open civic data.
-
-      - role: Adjunct Professor
-        time: 2016 - 2018
-        company: Duquesne University
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: UI Developer
+        time: 2012 - 2014
+        company: Amazon, London
         details: |
-          Over the course of two years, I taught eight sections of Business Statistics for the Palumbo-Donahue School of Business and one section of Problem Solving
-          for the Department of Mathematics and Computer Science. I also taught one section of Fundamentals of Statistics as a student in the Computational Mathematics program.
-          Visit my <a href="https://dslibr.github.io/DuquesneProf/" target="_blank">teaching portfolio at https://dslibr.github.io/DuquesneProf/</a>.
-            - Designed and delivered lessons to engage students with real-world and hands-on activities.
-            - Incorporated activities to model the data analysis or problem solving process to develop analytical thinking.
-            - Monitored student progress through formative assessments and assignments.
-            - Provided feedback to students through re-teaching and comments.
-            - Worked closely with students individually and in small groups to identify areas for improvement.
-
-
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
 
 certifications:
       title: Certifications
       list:
-        - name: PA State Teacher Certification in 7-12 Mathematics
-          start: 2009
-          end: 2012
-          organization: Robert Morris University
-          credentialid: 
-          credentialurl: 
-          credentialname: 
+        - name: CV Builder
+          start: 2020
+          end: 2021
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: Google
           details: |
+            Details about cert. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+
+            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+            fringilla vel. Ut euismod, sem sed vulputate venenatis,
+            justo diam viverra velit, sed rhoncus leo leo eu justo.
+            Suspendisse placerat risus ante, sed porta nisi blandit at.
+        - name: Git learning
+          start: 2019
+          end:
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.github.com
+          credentialname: Github
+          details: |
+            Older certification. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
     intro: >
-      
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Data Governance Health Status Checks
-        link: "https://dslibr.github.io/DataGovHealthStatusChecks/"
-        tagline: "This collaborative project involved contextual design research and the development of user-centered procedures and tools for the City of Pittsburgh&rsquo;s Data Governance Health Status Checks."
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Digital Humanities Topic Modeling
-        link: "https://dslibr.github.io/DigitalHumanitiesTopicModeling/"
-        tagline: "The high-level goal of this exploratory, unsupervised learning project was to investigate which topics are present within the humanities digital collection, and how those topics vary over time."
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Life During COVID-19 Application Profile and Metadata Schema
-        link: "https://github.com/dslibr/PittMetadata"
-        tagline: "A collaborative project to create a Metadata Schema Application Profile. The Life During COVID-19 is an XML Schema application profile for describing a collection of internet-based media and datasets that reflect American reactions and outcomes related to the COVID-19 pandemic of 2019-2020."
-   
-      - title: Census Tracks and Relationship Files
-        link: "https://github.com/dslibr/PittOpenData"
-        tagline: "This Census project explains the Allegheny County 2000-2010 Census Tract Relationship File and shows how the 2010 Census tracts in Allegheny County, Pennsylvania relate to the 2000 Census tracts."
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Losing Schools to the Economic Chasm
-        link: "https://github.com/dslibr/DuqMastersThesis"
-        tagline: "For my thesis for the Computational Mathematics program at Duquesne, I examined the amount of variance in the new Pennsylvania school performance data that is explained by IRS-based income values."
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Dictation Tutor
-        link: "https://github.com/dslibr/DictationTutor"
-        tagline: "A collaborative project to create a java application to enable English language learners to practice writing from oral prompts in preparation for the written portion of the citizenship test."
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: Boggle Game
-        link: "https://github.com/dslibr/DuqWebSystems"
-        tagline: "A collaborative project to create a servlet version of Boggle, which implements the MVC design pattern using a Java servlet as controller, a Java Beans class for the data model, and the XML version of JSP (jspx) to generate the views."
+oss:
+    title: OSS Contributions
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & PL/SQL
-        level: 90%
+      - name: Python & Django
+        level: 98%
 
-      - name: Programming & Problem Solving
-        level: 90%
+      - name: Javascript & jQuery
+        level: 98%
 
-      - name: HTML5, CSS, Javascipt
-        level: 75%
+      - name: Angular
+        level: 98%
 
-      - name: SAS, R, Java
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
         level: 60%
 
 footer: >
