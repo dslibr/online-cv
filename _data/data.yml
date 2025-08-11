@@ -13,11 +13,11 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: lisaaover@gmail.com
+    email:
     phone: 
     timezone: Eastern Standard Time # Enter your timezone, e.g., America/Cancun America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: United States of America
-    website: "https://dslibr.com/" # Include the full website URL, including "http://" or "https://".
+    website: https://dslibr.com/ # Include the full website URL, including "http://" or "https://".
     linkedin: lisa-over
     xing: 
     github: dslibr
