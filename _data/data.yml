@@ -9,18 +9,18 @@ sidebar:
 
     # Profile information
     name: Lisa Over
-    tagline: Data Scientist and Data Librarian
+    tagline: Data Scientist/Data Manager
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: lisa.dslibr@gmail.com
+    email: lisaaover@gmail.com
     phone: 
     timezone: Eastern Standard Time # Enter your timezone, e.g., America/Cancun America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: United States of America
-    website: https://dslibr.com/ # Include the full website URL, including "http://" or "https://".
+    website: "https://dslibr.com/" # Include the full website URL, including "http://" or "https://".
     linkedin: lisa-over
     xing: 
-    github: https://github.com/dslibr
+    github: "https://github.com/dslibr"
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -48,7 +48,7 @@ sidebar:
         - item: Hiking
           link:
 
-        - item: Skoolie living
+        - item: Van/Bus Life
           link:
 
 career-profile:
@@ -177,16 +177,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & PL/SQL
-        level: 90%
-
       - name: Programming & Problem Solving
         level: 90%
+        
+      - name: Python
+        level: 85%
 
       - name: HTML5, CSS, Javascipt
-        level: 75%
+        level: 85%
 
-      - name: SAS, R, Java
+      - name: SAS, R
+        level: 60%
+
+      - name: PL/SQL
+        level: 60%
+
+      - name: Java
         level: 60%
 
 footer: >
